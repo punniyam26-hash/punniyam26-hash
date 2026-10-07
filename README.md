@@ -1,24 +1,26 @@
 <!--
   TODO BEFORE PUBLISHING (search for "TODO"):
-  1. Replace YOUR-LINKEDIN and YOUR-EMAIL@gmail.com (appears in header + footer)
-  2. Fill the Education section at the bottom
-  3. Optional: pin SmartSpend and Patient-Risk-Prediction-API on your profile
+  1. Replace YOUR-LINKEDIN and YOUR-EMAIL@gmail.com (header + footer)
+  2. Fill the Education section near the bottom
+  This file needs NO extra assets folder. Just paste it as README.md
 -->
 
 <a id="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=250&section=header&text=Punniyamoorthy%20K&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20-%20REST%20APIs%20and%20Machine%20Learning&descSize=18&descAlignY=58" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
-
 <a href="https://github.com/punniyam26-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing animation: Healthcare and FinTech Backend Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=4000&pause=1500&color=7F5AF0&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Punniyamoorthy+K" alt="Punniyamoorthy K" />
+</a>
+<br/>
+<a href="https://github.com/punniyam26-hash">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Python+Backend+Developer+%7C+REST+APIs+%26+Machine+Learning;Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs" alt="Python Backend Developer, REST APIs and Machine Learning" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Chennai%2C%20India-On--site%20%7C%20Hybrid%20%7C%20Remote-3A7BD5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Chennai, on-site, hybrid or remote"/>
+<img src="https://img.shields.io/badge/Chennai%2C%20India-On--site%20%7C%20Hybrid%20%7C%20Remote-3A7BD5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Chennai, on-site, hybrid or remote"/>
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7F00FF?style=for-the-badge&logo=python&logoColor=white" alt="2+ years experience"/>
 
 <br/>
@@ -27,11 +29,9 @@
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=punniyam26-hash&style=for-the-badge&color=7F5AF0&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-<!-- NAV BAR -->
 <a href="#summary"><img src="https://img.shields.io/badge/SUMMARY-7F5AF0?style=flat-square&labelColor=0d1117" alt="Summary"/></a>
 <a href="#impact"><img src="https://img.shields.io/badge/IMPACT-7F5AF0?style=flat-square&labelColor=0d1117" alt="Impact"/></a>
 <a href="#problems"><img src="https://img.shields.io/badge/PROBLEMS%20SOLVED-7F5AF0?style=flat-square&labelColor=0d1117" alt="Problems solved"/></a>
@@ -39,9 +39,12 @@
 <a href="#stack"><img src="https://img.shields.io/badge/TECH%20STACK-7F5AF0?style=flat-square&labelColor=0d1117" alt="Tech stack"/></a>
 <a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-7F5AF0?style=flat-square&labelColor=0d1117" alt="Experience"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-7F5AF0?style=flat-square&labelColor=0d1117" alt="Projects"/></a>
+<a href="#dashboard"><img src="https://img.shields.io/badge/DASHBOARD-7F5AF0?style=flat-square&labelColor=0d1117" alt="Dashboard"/></a>
 <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-7F5AF0?style=flat-square&labelColor=0d1117" alt="Contact"/></a>
 
 </div>
+
+---
 
 <a id="summary"></a>
 <h2 align="center">⚡ 30-Second Summary</h2>
@@ -285,30 +288,26 @@ flowchart LR
 
 ---
 
+<a id="dashboard"></a>
 <h2 align="center">📊 GitHub Dashboard</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=punniyam26-hash&show_icons=true&hide_border=false&border_color=7F5AF0&border_radius=12&bg_color=0d1117&title_color=00D2FF&icon_color=7F5AF0&text_color=E6EDF3&ring_color=00D2FF&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punniyam26-hash&layout=compact&langs_count=6&hide_border=false&border_color=7F5AF0&border_radius=12&bg_color=0d1117&title_color=00D2FF&text_color=E6EDF3" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/punniyam26-hash?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7F5AF0" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/punniyam26-hash/SmartSpend?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3A7BD5&label=SmartSpend%20stars" alt="SmartSpend stars"/>
+<img src="https://img.shields.io/github/stars/punniyam26-hash/Patient-Risk-Prediction-API?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00B4D8&label=Risk%20API%20stars" alt="Patient Risk API stars"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=punniyam26-hash&background=0d1117&border=7F5AF0&stroke=7F5AF0&ring=00D2FF&fire=FF6B6B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=8B949E&border_radius=12" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=punniyam26-hash&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&bg_color=0d1117&color=00D2FF&line=7F5AF0&point=ffffff&area=true&area_color=7F5AF0&hide_border=true&title_color=00D2FF" width="95%" alt="Contribution graph" />
+<img src="https://img.shields.io/github/last-commit/punniyam26-hash/SmartSpend?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117&color=7F5AF0&label=SmartSpend%20last%20commit" alt="SmartSpend last commit"/>
+<img src="https://img.shields.io/github/languages/top/punniyam26-hash/SmartSpend?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117&color=3A7BD5&label=Top%20language" alt="Top language"/>
+<img src="https://img.shields.io/github/repo-size/punniyam26-hash/SmartSpend?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00B4D8&label=SmartSpend%20size" alt="Repo size"/>
 
 </div>
 
 ---
 
-<!-- TODO: fill this section, then remove this comment -->
+<!-- TODO: fill this section with real details -->
 <h2 align="center">🎓 Education</h2>
 
 - 🎓 **MBA**: add college & year
@@ -336,9 +335,12 @@ Open to opportunities in **Chennai & Remote**.
 
 *"Make it work, make it right, make it fast."* ⚡
 
+<br/>
+
 <a href="#top">⬆ Back to top</a>
 
-<!-- ============================== FOOTER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:3A7BD5,100:7F00FF&height=170&section=footer&reversal=true&text=Thanks%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting-Make%20it%20work%20%C2%B7%20Make%20it%20right%20%C2%B7%20Make%20it%20fast-3A7BD5?style=for-the-badge&labelColor=7F00FF" alt="Thanks for visiting"/>
 
 </div>
