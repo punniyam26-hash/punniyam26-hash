@@ -1,10 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Punniyamoorthy%20K&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Backend%20Developer%20%E2%80%A2%20APIs%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20LLM&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Punniyamoorthy%20K&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Backend%20Engineer%20%E2%80%A2%20APIs%20that%20ship%20%E2%80%A2%20ML%20%26%20LLMs%20in%20production&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=45&lines=Building+REST+APIs+that+scale+%F0%9F%9A%80;Django+%7C+Flask+%7C+FastAPI;Putting+ML+%26+LLMs+into+production+%F0%9F%A4%96;2+years+%7C+Healthcare+%26+FinTech+domains" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=45&lines=I+turn+messy+data+into+reliable+APIs+%F0%9F%9A%80;87%25%2B+accurate+ML+model+%7C+30%2C000%2B+records+%7C+30%25+faster+queries;Django+%7C+Flask+%7C+FastAPI+%7C+PostgreSQL+%7C+LLMs;Healthcare+%26+FinTech+%7C+Open+to+work+in+Chennai+%26+Remote" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,26 @@
   <a href="https://www.linkedin.com/in/punniyamoorthy-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:punniyam26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- TODO: upload your resume PDF to this repo, then uncomment the line below -->
+  <!-- <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a> -->
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
+
+<!-- ===================== RECRUITER SNAPSHOT ===================== -->
+## ⏱️ 30-Second Summary (for Recruiters & Hiring Managers)
+
+| | |
+|---|---|
+| **Role** | Python Backend / API Developer |
+| **Experience** | 2 years, 2 shipped products (healthcare, personal finance) |
+| **Core stack** | Django · DRF · Flask · FastAPI · PostgreSQL · MySQL · Docker · pytest |
+| **AI / ML** | scikit-learn · Pandas · LangChain · ChromaDB · OpenAI embeddings |
+| **Superpower** | I take a feature from *requirements → data model → API → ML → deployment* on my own |
+| **Proof** | 87%+ model accuracy · 30,000+ records processed · 30% faster queries · 75%+ test coverage |
+| **Availability** | Open to work: Chennai (on-site / hybrid) & Remote |
+
+---
 
 <!-- ===================== PHOTO + INTRO ===================== -->
 <table>
@@ -42,12 +59,12 @@
 
 ### 👋 Hi, I'm Punniyamoorthy
 
-I build **backend systems that are fast, reliable and smart**. Over the last **2 years** I have shipped REST APIs in the **healthcare** and **personal-finance** domains, combining solid backend engineering with **Machine Learning and LLM-based search**.
+I build **backend systems that are fast, reliable and smart**. In the last **2 years** I have shipped REST APIs in **healthcare** (where every prediction must be explainable and auditable) and **personal finance** (where users need insight, not just data), combining solid backend engineering with **Machine Learning and LLM-based search**.
 
-- 🔭 Currently building **SmartSpend**, an AI-powered finance tracker
-- 🌱 Currently exploring **FastAPI, Docker, CI/CD**
-- 💬 Ask me about **Django, Flask, REST design, SQL optimization, ML in backend**
-- 🎯 Looking for **Python Backend / API Developer** roles
+- 🔭 **Building now:** SmartSpend, an AI-powered finance tracker
+- 🌱 **Levelling up:** FastAPI, Docker, CI/CD
+- 💬 **Ask me about:** Django, Flask, REST design, SQL optimization, putting ML behind an API
+- 🎯 **Looking for:** Python Backend / API Developer roles where I can own features end to end
 
 </td>
 </tr>
@@ -63,9 +80,69 @@ I build **backend systems that are fast, reliable and smart**. Over the last **2
 <td align="center"><h2>30,000+</h2><sub>patient records processed</sub></td>
 <td align="center"><h2>30%</h2><sub>faster audit queries</sub></td>
 <td align="center"><h2>75%+</h2><sub>test coverage</sub></td>
-<td align="center"><h2>4</h2><sub>production REST endpoints</sub></td>
+<td align="center"><h2>0</h2><sub>downtime incidents in production</sub></td>
 </tr>
 </table>
+
+---
+
+## 🧠 Problems I've Solved
+
+| Problem | What I did | Result |
+|---|---|---|
+| Raw patient data was too noisy for reliable predictions | Cleaned and preprocessed **30,000+ records** with Pandas and NumPy | **+12% accuracy**, final model at **87%+** |
+| Audit queries were slow as data grew | Designed **composite indexes** on MySQL | **30% faster** queries |
+| Healthcare needs predictions that can be justified | Stored every prediction with **confidence score and top risk factors** | A complete **audit trail** for compliance |
+| Clinical notes were hard to search by keyword | Built a **semantic search layer** (LangChain, ChromaDB, Sentence Transformers, OpenAI embeddings) | Search by *meaning*, not exact words |
+| People don't know where their money goes | Built anomaly detection and a **next-month forecast** (Linear Regression) with Chart.js dashboards | Spending insights, not just transaction lists |
+
+---
+
+## 🏗️ Architecture Deep Dives
+
+**🏥 Patient Risk Prediction API**
+
+```mermaid
+flowchart LR
+    A[Client / Clinical Dashboard] -->|REST request| B[Flask API]
+    B --> C[Preprocessing<br/>Pandas, NumPy, Scaler]
+    C --> D[RandomForest Model<br/>Risk: Low / Medium / High]
+    D --> E[(MySQL<br/>Predictions + Audit Trail)]
+    B --> F[Semantic Search<br/>LangChain + ChromaDB]
+    F --> G[OpenAI Embeddings]
+    E --> H[Dashboard Statistics]
+    D -->|Confidence + Top Risk Factors| A
+```
+
+**💰 SmartSpend**
+
+```mermaid
+flowchart LR
+    U[User] --> V[Django Views / Auth]
+    V --> T[(PostgreSQL<br/>Transactions + Budgets)]
+    T --> I[Insights Engine<br/>Pandas + Scikit-learn]
+    I --> AN[Anomaly Detection]
+    I --> FC[Next-Month Forecast<br/>Linear Regression]
+    T --> BG[Budget Tracking<br/>ORM Aggregation]
+    AN --> D[Chart.js Dashboard]
+    FC --> D
+    BG --> D
+```
+
+<details>
+<summary><b>🔍 Sample response shape: how the risk API explains itself</b> (illustrative)</summary>
+
+```json
+{
+  "patient_id": "P-10231",
+  "risk_level": "High",
+  "confidence": 0.89,
+  "top_risk_factors": ["age", "blood_pressure", "prior_admissions"],
+  "stored_in_audit_trail": true
+}
+```
+
+</details>
 
 ---
 
@@ -124,22 +201,6 @@ I build **backend systems that are fast, reliable and smart**. Over the last **2
 
 ---
 
-## 🏗️ Architecture: Patient Risk Prediction API
-
-```mermaid
-flowchart LR
-    A[Client / Clinical Dashboard] -->|REST request| B[Flask API]
-    B --> C[Preprocessing<br/>Pandas, NumPy, Scaler]
-    C --> D[RandomForest Model<br/>Risk: Low / Medium / High]
-    D --> E[(MySQL<br/>Predictions + Audit Trail)]
-    B --> F[Semantic Search<br/>LangChain + ChromaDB]
-    F --> G[OpenAI Embeddings]
-    E --> H[Dashboard Statistics]
-    D -->|Confidence + Top Risk Factors| A
-```
-
----
-
 ## 💼 Experience
 
 <details open>
@@ -148,12 +209,12 @@ flowchart LR
 
 **SmartSpend: AI-Powered Finance Tracker** | `Django` `PostgreSQL` `Pandas` `Scikit-learn` `Chart.js` `pytest` `Docker`
 
-- Designed and built a full-stack finance tracker with authentication and a PostgreSQL-ready schema for transactions and budgets
-- Built a spending-insights engine that flags **anomalous transactions** and **forecasts next-month spending** using Linear Regression
+- Owned the product **end to end**: requirements, data modeling, backend, ML integration and UI
+- Built an insights engine that **flags anomalous transactions** and **forecasts next-month spending** using Linear Regression
 - Implemented budget tracking with Django ORM aggregation against user-defined monthly limits
 - Created interactive **Chart.js dashboards** for category-wise spending breakdowns
+- Designed authentication and a PostgreSQL-ready schema for transactions and budgets
 - Wrote pytest suites for transaction, budget and forecasting logic; containerized the app with **Docker**
-- Owned the project end to end: requirements, data modeling, backend, ML integration and UI
 
 </details>
 
@@ -166,10 +227,10 @@ flowchart LR
 - Built and deployed a Flask REST API serving a **RandomForest model** that classifies patient risk (Low / Medium / High) with **87%+ accuracy**
 - Preprocessed **30,000+ patient records**, improving model accuracy by **12%**
 - Delivered **4 REST endpoints** for real-time prediction, patient history and dashboard statistics
-- Added composite indexes on MySQL, reducing audit query time by **30%**
+- Added composite indexes on MySQL, cutting audit query time by **30%**
 - Stored every prediction with confidence score and top risk factors, creating an **audit trail** for compliance
 - Built a **semantic search layer** over clinical notes using ChromaDB, LangChain, Sentence Transformers and OpenAI embeddings
-- Reached **75%+ code coverage** with unittest; deployed to Linux production with zero downtime incidents
+- Reached **75%+ code coverage** with unittest; deployed to Linux production with **zero downtime incidents**
 
 </details>
 
@@ -218,10 +279,32 @@ flowchart LR
 
 | | |
 |---|---|
-| 🧩 **End-to-end ownership** | Requirements → data model → API → ML → deployment |
+| 🧩 **End-to-end ownership** | Requirements → data model → API → ML → deployment, with minimal handoffs |
 | 🏭 **Production mindset** | Indexing, audit trails, testing, zero-downtime deployments |
-| 🤖 **Backend + ML + LLM** | Smart features shipped without extra handoffs |
-| 💼 **Business understanding** | MBA background helps me build what the product actually needs |
+| 🤖 **Backend + ML + LLM** | I can ship smart features without waiting for a separate ML team |
+| 🔐 **Regulated-domain experience** | Healthcare and finance taught me explainability, traceability and data care |
+| 💼 **Business understanding** | MBA background: I ask *why* a feature matters before I build it |
+
+---
+
+## 🧭 How I Work
+
+- **Make it work, make it right, make it fast**, in that order
+- **Measure before optimizing**: indexes, queries and models get numbers, not guesses
+- **Explainable by default**: every prediction I serve can say *why*
+- **Tests are part of the feature**, not a follow-up task
+- **Clear communication**: I write docs and PR descriptions that others can actually follow
+
+---
+
+## 🛣️ Currently Levelling Up
+
+- [x] Django · Flask · REST API design
+- [x] ML in production · LLM-based semantic search
+- [x] Docker basics
+- [ ] FastAPI (async endpoints, Pydantic validation)
+- [ ] CI/CD pipelines (GitHub Actions)
+- [ ] Redis caching and background jobs (Celery)
 
 ---
 
@@ -260,7 +343,8 @@ flowchart LR
 ## 📫 Let's Connect
 
 <p align="center">
-  <b>Open to Python Backend / API Developer opportunities in Chennai & Remote.</b><br><br>
+  <b>Hiring for a Python Backend / API role? Let's talk. I reply fast.</b><br>
+  Open to opportunities in Chennai & Remote.<br><br>
   <a href="mailto:punniyam26@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/punniyamoorthy-k"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
