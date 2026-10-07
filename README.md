@@ -1,22 +1,24 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Punniyamoorthy%20K&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20REST%20APIs%20%26%20Machine%20Learning&descSize=17&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Punniyamoorthy%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20-%20REST%20APIs%20and%20Machine%20Learning&descSize=18&descAlignY=60" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="Typing SVG" />
+<a href="https://github.com/punniyam26-hash">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Chennai%2C%20India-On--site%20%7C%20Hybrid%20%7C%20Remote-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=python&logoColor=white" alt="Experience"/>
+<img src="https://komarev.com/ghpvc/?username=punniyam26-hash&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Location](https://img.shields.io/badge/Chennai%2C%20India-On--site%20%7C%20Hybrid%20%7C%20Remote-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=python&logoColor=white)
-![Views](https://komarev.com/ghpvc/?username=punniyam26-hash&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -122,7 +124,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,docker,git,github,linux,postman,react,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,docker,git,github,linux,postman,react,js,html,css&theme=dark" alt="Tech icons" />
 
 </div>
 
@@ -283,16 +285,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=punniyam26-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punniyam26-hash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=punniyam26-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punniyam26-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=punniyam26-hash&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=punniyam26-hash&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&bg_color=0d1117&color=00d4ff&line=2c5364&point=ffffff&area=true&area_color=203a43&hide_border=true&title_color=00d4ff" width="95%" alt="Contribution graph" />
 
 </div>
 
@@ -313,13 +315,14 @@ flowchart LR
 **Hiring for a Python Backend / API role? Let's talk. I reply fast.**
 Open to opportunities in **Chennai & Remote**.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
 *"Make it work, make it right, make it fast."* ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<!-- ============================== FOOTER ============================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=140&section=footer&reversal=true&text=Thanks%20for%20visiting&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer"/>
 
 </div>
