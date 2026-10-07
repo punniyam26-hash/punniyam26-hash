@@ -1,30 +1,42 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Punniyamoorthy%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20-%20REST%20APIs%20and%20Machine%20Learning&descSize=18&descAlignY=60" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=240&section=header&text=Punniyamoorthy%20K&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20-%20REST%20APIs%20and%20Machine%20Learning&descSize=18&descAlignY=58" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
 
 <a href="https://github.com/punniyam26-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
 <img src="https://img.shields.io/badge/Chennai%2C%20India-On--site%20%7C%20Hybrid%20%7C%20Remote-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=python&logoColor=white" alt="Experience"/>
-<img src="https://komarev.com/ghpvc/?username=punniyam26-hash&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF8C00?style=for-the-badge&logo=python&logoColor=white" alt="Experience"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=punniyam26-hash&style=for-the-badge&color=00D4FF&labelColor=0f2027&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<!-- NAV BAR -->
+<a href="#-impact-at-a-glance"><img src="https://img.shields.io/badge/IMPACT-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Impact"/></a>
+<a href="#-problems-ive-solved"><img src="https://img.shields.io/badge/PROBLEMS%20SOLVED-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Problems"/></a>
+<a href="#-architecture-deep-dives"><img src="https://img.shields.io/badge/ARCHITECTURE-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Architecture"/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Tech Stack"/></a>
+<a href="#-experience"><img src="https://img.shields.io/badge/EXPERIENCE-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Experience"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Projects"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/CONTACT-0f2027?style=flat-square&labelColor=0f2027&color=00D4FF" alt="Contact"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## ⚡ 30-Second Summary *(for Recruiters & Hiring Managers)*
+<h2 align="center">⚡ 30-Second Summary</h2>
+<p align="center"><i>for Recruiters & Hiring Managers</i></p>
 
 | | |
 |---|---|
@@ -36,32 +48,36 @@
 | **📊 Proof** | 87%+ model accuracy · 30,000+ records processed · 30% faster queries · 75%+ test coverage |
 | **📍 Availability** | Open to work in Chennai (on-site / hybrid) & Remote |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 👋 Hi, I'm Punniyamoorthy
+<h2 align="center">👋 Hi, I'm Punniyamoorthy</h2>
 
 I build **backend systems that are fast, reliable and smart.** Over the last 2 years I shipped REST APIs in **healthcare** (where every prediction must be explainable and auditable) and a **personal finance product** (where users want clarity, not just transaction lists), combining solid backend engineering with **Machine Learning** and **LLM-based search**.
 
-- 🔭 **Building now:** SmartSpend, an AI-powered finance tracker
-- 🌱 **Levelling up:** Django, Flask, REST design, SQL optimization, putting ML behind an API
-- 💬 **Ask me about:** FastAPI, Docker, pytest, query tuning, semantic search
-- 🎯 **Looking for:** Python Backend / API Developer roles where I can own features end to end
+> 🔭 **Building now:** SmartSpend, an AI-powered finance tracker
+> 🌱 **Levelling up:** FastAPI, CI/CD, Redis, Celery
+> 💬 **Ask me about:** FastAPI, Docker, pytest, query tuning, semantic search
+> 🎯 **Looking for:** Python Backend / API Developer roles where I can own features end to end
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 📈 Impact at a Glance
+<h2 align="center">📈 Impact at a Glance</h2>
 
 <div align="center">
 
-| 🎯 **87%+** | 🏥 **30,000+** | ⚡ **30%** | 🧪 **75%+** | 🟢 **0** |
-|:---:|:---:|:---:|:---:|:---:|
-| ML model accuracy | patient records processed | faster audit queries | test coverage | downtime incidents in production |
+<img src="https://img.shields.io/badge/87%25%2B-ML%20ACCURACY-00D4FF?style=for-the-badge&labelColor=0f2027" alt="87% accuracy"/>
+<img src="https://img.shields.io/badge/30%2C000%2B-RECORDS%20PROCESSED-00D4FF?style=for-the-badge&labelColor=0f2027" alt="30000 records"/>
+<img src="https://img.shields.io/badge/30%25-FASTER%20QUERIES-00D4FF?style=for-the-badge&labelColor=0f2027" alt="30% faster"/>
+<br/>
+<img src="https://img.shields.io/badge/75%25%2B-TEST%20COVERAGE-00D4FF?style=for-the-badge&labelColor=0f2027" alt="75% coverage"/>
+<img src="https://img.shields.io/badge/0-DOWNTIME%20INCIDENTS-2ea44f?style=for-the-badge&labelColor=0f2027" alt="Zero downtime"/>
+<img src="https://img.shields.io/badge/%2B12%25-ACCURACY%20FROM%20PREPROCESSING-00D4FF?style=for-the-badge&labelColor=0f2027" alt="+12% accuracy"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🧩 Problems I've Solved
+<h2 align="center">🧩 Problems I've Solved</h2>
 
 | Problem | What I did | Result |
 |---|---|---|
@@ -71,9 +87,9 @@ I build **backend systems that are fast, reliable and smart.** Over the last 2 y
 | Clinical notes were hard to search by keyword | Built a semantic search layer (LangChain, ChromaDB, Sentence Transformers, OpenAI embeddings) | Search by **meaning**, not exact words |
 | People don't know where their money goes | Built anomaly detection and a next-month forecast (Linear Regression) with Chart.js dashboards | Spending **insights**, not just transaction lists |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🏗️ Architecture Deep Dives
+<h2 align="center">🏗️ Architecture Deep Dives</h2>
 
 ### 🏥 Patient Risk Prediction API
 
@@ -118,69 +134,43 @@ flowchart LR
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,docker,git,github,linux,postman,react,js,html,css&theme=dark" alt="Tech icons" />
+**⚙️ Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql&theme=dark" alt="Backend"/>
+
+**🧪 Testing & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark" alt="DevOps"/>
+
+**🎨 Frontend (working knowledge)**<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="Frontend"/>
+
+**🤖 AI / ML / LLM**<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+
+**🔐 APIs & Tools**<br/>
+
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 </div>
 
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML / LLM</b></summary>
-<br/>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>🧪 Testing & DevOps</b></summary>
-<br/>
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend (working knowledge)</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</details>
-
----
-
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 ### 🔹 Python Backend Developer · Flay High Software
 **Dec 2025 – Present**
@@ -207,9 +197,9 @@ flowchart LR
 - Built a **semantic search layer** over clinical notes using ChromaDB, LangChain, Sentence Transformers and OpenAI embeddings
 - Reached **75%+ code coverage** with unit tests, deployed to Linux production with **zero downtime incidents**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -246,9 +236,9 @@ flowchart LR
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🎁 What I Bring to Your Team
+<h2 align="center">🎁 What I Bring to Your Team</h2>
 
 | | |
 |---|---|
@@ -258,9 +248,9 @@ flowchart LR
 | 🏥 **Regulated-domain experience** | Healthcare and finance taught me explainability, traceability and data care |
 | 💼 **Business understanding** | MBA background: I ask *why* a feature matters before I build it |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🧭 How I Work
+<h2 align="center">🧭 How I Work</h2>
 
 1. **Make it work, make it right, make it fast**, in that order
 2. **Measure before optimizing:** indexes, queries and models get numbers, not guesses
@@ -268,20 +258,16 @@ flowchart LR
 4. **Tests are part of the feature,** not a follow-up task
 5. **Clear communication:** I write docs and PR descriptions that others can actually follow
 
----
+<h2 align="center">🌱 Currently Levelling Up</h2>
 
-## 🌱 Currently Levelling Up
-
-- [ ] Django · Flask · REST API design
-- [ ] ML in production · LLM-based semantic search
-- [ ] Docker basics
 - [ ] FastAPI (async endpoints, Pydantic validation)
 - [ ] CI/CD pipelines (GitHub Actions)
 - [ ] Redis caching and background jobs (Celery)
+- [ ] ML in production · LLM-based semantic search
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -294,35 +280,42 @@ flowchart LR
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=punniyam26-hash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&bg_color=0d1117&color=00d4ff&line=2c5364&point=ffffff&area=true&area_color=203a43&hide_border=true&title_color=00d4ff" width="95%" alt="Contribution graph" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 - 🎓 **MBA**: add college & year
 - 🎓 **Degree**: add degree, college & year
 - 📜 **Certifications**: Python, ML, FastAPI (add details)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header" width="100%" alt=""/>
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-**Hiring for a Python Backend / API role? Let's talk. I reply fast.**
+**Hiring for a Python Backend / API role? Let's talk. I reply fast.**<br/>
 Open to opportunities in **Chennai & Remote**.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
 *"Make it work, make it right, make it fast."* ⚡
 
 <!-- ============================== FOOTER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=140&section=footer&reversal=true&text=Thanks%20for%20visiting&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=160&section=footer&reversal=true&text=Thanks%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer"/>
 
 </div>
