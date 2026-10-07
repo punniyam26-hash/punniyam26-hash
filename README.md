@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Punniyamoorthy%20K&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Backend%20Engineer%20%E2%80%A2%20APIs%20that%20ship%20%E2%80%A2%20ML%20%26%20LLMs%20in%20production&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24&height=300&section=header&text=Punniyamoorthy%20K&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20LLM%20Search&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <p align="center">
@@ -44,7 +44,8 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/punniyam26-hash/punniyam26-hash/main/profile.jpg&w=220&h=220&fit=cover&mask=circle&maxage=1d" width="200" alt="Punniyamoorthy K" />
+<!-- PHOTO: upload your picture as profile.jpg in THIS repo (punniyam26-hash/punniyam26-hash), main branch -->
+<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/punniyam26-hash/punniyam26-hash/main/profile.jpg&w=260&h=260&fit=cover&a=top&mask=circle&maxage=1d" width="220" alt="Punniyamoorthy K" />
 
 <br>
 
@@ -53,6 +54,9 @@
 *Python Backend Developer*
 <br>
 📍 Chennai, India
+<br><br>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/Reply%20Time-Fast%20%E2%9A%A1-blue?style=flat-square" />
 
 </td>
 <td width="70%">
