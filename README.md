@@ -1,10 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Punniyamoorthy%20K&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20Flask%20%7C%20FastAPI%20%7C%20ML&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Punniyamoorthy%20K&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Backend%20Developer%20%E2%80%A2%20APIs%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20LLM&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=40&lines=Building+REST+APIs+that+scale;Django+%7C+Flask+%7C+FastAPI;Putting+ML+%26+LLMs+into+production;2+years+of+backend+experience+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=45&lines=Building+REST+APIs+that+scale+%F0%9F%9A%80;Django+%7C+Flask+%7C+FastAPI;Putting+ML+%26+LLMs+into+production+%F0%9F%A4%96;2+years+%7C+Healthcare+%26+FinTech+domains" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,95 +17,114 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/punniyamoorthy-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:punniyam26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+917397698715"><img src="https://img.shields.io/badge/Call-+91%207397698715-2ea44f?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
-## 👨‍💻 About Me
-
-Hi, I'm **Punniyamoorthy** 👋, a **Python Backend Developer** with **2 years of experience** building REST APIs and data-driven backend systems in **healthcare** and **personal-finance** domains. I combine solid backend engineering with **ML and LLM-based features** so that products are not just working, but smart.
-
-- 🔭 Currently building **SmartSpend**, an AI-powered finance tracker (Django, PostgreSQL, Scikit-learn)
-- 🌱 Currently exploring **FastAPI, Docker, CI/CD**
-- 💬 Ask me about **Django, Flask, REST API design, SQL optimization, ML in backend**
-- 🎯 Looking for **Python Backend / API Developer** roles
-
----
-
-## 📈 Impact at a Glance
-
-| 🎯 Model Accuracy | 📂 Records Processed | ⚡ Query Speedup | 🧪 Test Coverage | 🔌 REST Endpoints |
-|:---:|:---:|:---:|:---:|:---:|
-| **87%+** | **30,000+** | **30% faster** | **70-75%+** | **4 delivered** |
-
----
-
-## 🧰 Tech Stack
-
+<!-- ===================== PHOTO + INTRO ===================== -->
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="30%" align="center">
 
-**Languages & Backend**
+<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/punniyam26-hash/punniyam26-hash/main/profile.jpg&w=220&h=220&fit=cover&mask=circle&maxage=1d" width="200" alt="Punniyamoorthy K" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<br>
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+**Punniyamoorthy K**
+<br>
+*Python Backend Developer*
+<br>
+📍 Chennai, India
 
 </td>
-<td valign="top" width="50%">
+<td width="70%">
 
-**AI / ML**
+### 👋 Hi, I'm Punniyamoorthy
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+I build **backend systems that are fast, reliable and smart**. Over the last **2 years** I have shipped REST APIs in the **healthcare** and **personal-finance** domains, combining solid backend engineering with **Machine Learning and LLM-based search**.
 
-**Testing & DevOps**
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Frontend (working knowledge)**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- 🔭 Currently building **SmartSpend**, an AI-powered finance tracker
+- 🌱 Currently exploring **FastAPI, Docker, CI/CD**
+- 💬 Ask me about **Django, Flask, REST design, SQL optimization, ML in backend**
+- 🎯 Looking for **Python Backend / API Developer** roles
 
 </td>
 </tr>
 </table>
 
-### 📊 Skill Levels
+---
 
-```text
-Python / Django / Flask   ▰▰▰▰▰▰▰▰▱▱  80%
-REST API Design           ▰▰▰▰▰▰▰▰▱▱  80%
-SQL / Query Optimization  ▰▰▰▰▰▰▰▱▱▱  70%
-Scikit-learn / Pandas     ▰▰▰▰▰▰▰▱▱▱  70%
-Testing (pytest/unittest) ▰▰▰▰▰▰▰▱▱▱  70%
-LLM / Semantic Search     ▰▰▰▰▰▰▱▱▱▱  60%
-FastAPI / Docker          ▰▰▰▰▰▱▱▱▱▱  50%
-React (frontend)          ▰▰▰▰▱▱▱▱▱▱  40%
-```
+## 📈 Impact at a Glance
+
+<table align="center">
+<tr>
+<td align="center"><h2>87%+</h2><sub>ML model accuracy</sub></td>
+<td align="center"><h2>30,000+</h2><sub>patient records processed</sub></td>
+<td align="center"><h2>30%</h2><sub>faster audit queries</sub></td>
+<td align="center"><h2>75%+</h2><sub>test coverage</sub></td>
+<td align="center"><h2>4</h2><sub>production REST endpoints</sub></td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ How I Build: Patient Risk Prediction API
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,docker,git,github,linux,postman,react,redux,js,html,css&theme=dark&perline=8" />
+</p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**⚙️ Backend & Databases**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-3C873A?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🧪 Testing & DevOps**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Unittest](https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🤖 AI / ML / LLM**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+
+**🎨 Frontend (working knowledge)**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Architecture: Patient Risk Prediction API
 
 ```mermaid
 flowchart LR
@@ -158,19 +177,51 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 💰 [SmartSpend](https://github.com/punniyam26-hash/YOUR-REPO-NAME) | AI-powered finance tracker with anomaly detection, spending forecast and budget dashboards | Django, PostgreSQL, Scikit-learn, Chart.js, Docker |
-| 🏥 [Patient Risk Prediction API](https://github.com/punniyam26-hash/YOUR-REPO-NAME) | REST API that predicts patient risk level with confidence score and semantic search | Flask, RandomForest, MySQL, ChromaDB, LangChain |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 SmartSpend
+*AI-powered personal finance tracker*
+
+- 🔍 Anomaly detection on transactions
+- 📉 Next-month spending forecast
+- 📊 Category-wise Chart.js dashboards
+- 🐳 Dockerized and tested with pytest
+
+`Django` `PostgreSQL` `Scikit-learn` `Docker`
+
+**[🔗 View Repository](https://github.com/punniyam26-hash/YOUR-REPO-NAME)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Patient Risk Prediction API
+*ML-powered healthcare risk classifier*
+
+- 🎯 87%+ accuracy RandomForest model
+- 🧾 Audit trail with confidence scores
+- 🔎 Semantic search over clinical notes
+- ⚡ 30% faster queries via indexing
+
+`Flask` `MySQL` `ChromaDB` `LangChain`
+
+**[🔗 View Repository](https://github.com/punniyam26-hash/YOUR-REPO-NAME)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 What I Bring to Your Team
 
-- ✅ **End-to-end ownership**: requirements → data model → API → ML → deployment
-- ✅ **Production mindset**: indexing, audit trails, testing, zero-downtime deployments
-- ✅ **Backend + ML + LLM** in one profile, so I can ship smart features without extra handoffs
-- ✅ **Business understanding** (MBA) that helps me build what the product actually needs
+| | |
+|---|---|
+| 🧩 **End-to-end ownership** | Requirements → data model → API → ML → deployment |
+| 🏭 **Production mindset** | Indexing, audit trails, testing, zero-downtime deployments |
+| 🤖 **Backend + ML + LLM** | Smart features shipped without extra handoffs |
+| 💼 **Business understanding** | MBA background helps me build what the product actually needs |
 
 ---
 
@@ -189,8 +240,6 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/punniyam26-hash/punniyam26-hash/output/github-snake-dark.svg" />
@@ -208,8 +257,16 @@ flowchart LR
 
 ---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <b>Open to Python Backend / API Developer opportunities in Chennai & Remote.</b><br><br>
+  <a href="mailto:punniyam26@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/punniyamoorthy-k"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <p align="center"><i>"Make it work, make it right, make it fast."</i> ⚡</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" />
 </p>
