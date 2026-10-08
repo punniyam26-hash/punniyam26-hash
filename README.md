@@ -1,11 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=250&section=header&text=Punniyamoorthy%20K&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20-%20REST%20APIs%2C%20Fraud%20Detection%20%26%20Machine%20Learning&descSize=18&descAlignY=58" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
-
-<a href="https://github.com/punniyam26-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Healthcare+%26+Fraud+Detection+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+explainable;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
 
 <br/><br/>
 
@@ -33,7 +29,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">⚡ 30-Second Summary</h2>
 <p align="center"><i>for Recruiters & Hiring Managers</i></p>
@@ -49,7 +45,7 @@
 | **📊 Proof** | 87%+ model accuracy · 30,000+ records processed · 30% faster queries · 70-75%+ test coverage |
 | **📍 Availability** | Open to work in Chennai (on-site / hybrid) & Remote |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">👋 Hi, I'm Punniyamoorthy</h2>
 
@@ -60,7 +56,7 @@ I build **backend systems that are fast, reliable and explainable.** Over the la
 > 💬 **Ask me about:** REST API design, anomaly detection, query tuning, audit trails, semantic search
 > 🎯 **Looking for:** Python Backend / API Developer roles where I can own features end to end
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">📈 Impact at a Glance</h2>
 
@@ -76,7 +72,7 @@ I build **backend systems that are fast, reliable and explainable.** Over the la
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🧩 Problems I've Solved</h2>
 
@@ -89,7 +85,7 @@ I build **backend systems that are fast, reliable and explainable.** Over the la
 | Fraud investigators were flooded with false alerts | Combined a configurable rule engine with Isolation Forest scoring; tuned thresholds for precision vs recall | **Fewer false positives**, better-prioritized alerts |
 | Flagged transactions needed accountability | Built an immutable audit trail of every flagged event, rule triggered, risk score and reviewer action | **Explainable** decisions ready for audit reporting |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🏗️ Architecture Deep Dives</h2>
 
@@ -97,7 +93,7 @@ I build **backend systems that are fast, reliable and explainable.** Over the la
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1b1f3b','primaryBorderColor':'#7F5AF0','primaryTextColor':'#E6EDF3','lineColor':'#00D2FF','secondaryColor':'#13203a','tertiaryColor':'#0d1117'}}}%%
-flowchart LR
+flowchart TD
     T[Incoming Transactions] --> API[Django REST API<br/>JWT + RBAC]
     API --> RE[Rule Engine<br/>Threshold · Velocity · Duplicate · Pattern]
     API --> ML[Isolation Forest<br/>Anomaly Score]
@@ -115,7 +111,7 @@ flowchart LR
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1b1f3b','primaryBorderColor':'#7F5AF0','primaryTextColor':'#E6EDF3','lineColor':'#00D2FF','secondaryColor':'#13203a','tertiaryColor':'#0d1117'}}}%%
-flowchart LR
+flowchart TD
     A[Client / Clinical Dashboard] -->|REST request| B[Flask API]
     B --> C[Preprocessing<br/>Pandas · NumPy · StandardScaler]
     C --> D[RandomForest Model<br/>Risk: Low / Medium / High]
@@ -155,7 +151,7 @@ flowchart LR
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🧰 Tech Stack</h2>
 
@@ -190,7 +186,7 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">💼 Experience</h2>
 
@@ -219,7 +215,7 @@ flowchart LR
 - Built a **semantic search layer** over clinical notes using ChromaDB, LangChain, Sentence Transformers and OpenAI embeddings
 - Reached **75%+ code coverage** with unittest suites; deployed to Linux production with **zero downtime incidents**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -286,7 +282,7 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🎁 What I Bring to Your Team</h2>
 
@@ -298,7 +294,7 @@ flowchart LR
 | 🏥 **Regulated-domain experience** | Healthcare and fraud/audit work taught me explainability, traceability and data care |
 | 💼 **Business understanding** | MBA background: I ask *why* a feature matters before I build it |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🧭 How I Work</h2>
 
@@ -315,7 +311,7 @@ flowchart LR
 - [ ] Redis caching and background jobs (Celery)
 - [ ] ML in production · LLM-based semantic search
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">📊 GitHub Dashboard</h2>
 
@@ -328,13 +324,9 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=punniyam26-hash&background=0d1117&border=7F5AF0&stroke=7F5AF0&ring=00D2FF&fire=FF6B6B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=8B949E&border_radius=12" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&bg_color=0d1117&color=00D2FF&line=7F5AF0&point=ffffff&area=true&area_color=7F5AF0&hide_border=true&title_color=00D2FF" width="95%" alt="Contribution graph" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🎓 Education & Certifications</h2>
 
@@ -345,7 +337,7 @@ flowchart LR
 | 📜 **Certifications** | Python, React, FastAPI (Udemy, 2024) |
 | 🗣️ **Languages** | Tamil (Native) · English (Professional) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -365,6 +357,6 @@ Open to opportunities in **Chennai (on-site / hybrid) & Remote**.
 *"Make it work, make it right, make it fast."* ⚡
 
 <!-- ============================== FOOTER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:3A7BD5,100:7F00FF&height=170&section=footer&reversal=true&text=Thanks%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer"/>
+<img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
 
 </div>
