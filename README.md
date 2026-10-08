@@ -1,3 +1,87 @@
+#!/usr/bin/env bash
+# Run this inside your profile repo folder (repo name = punniyam26-hash)
+set -e
+mkdir -p assets
+
+# ---------------------------------------------------------------
+# assets/header.svg
+# ---------------------------------------------------------------
+cat > assets/header.svg <<'HEADER_EOF'
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Punniyamoorthy K - Python Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7F00FF"/>
+      <stop offset="50%" stop-color="#3A7BD5"/>
+      <stop offset="100%" stop-color="#00D2FF"/>
+    </linearGradient>
+    <style>
+      .name{font:800 62px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:1px;animation:rise 1.2s ease-out both}
+      .role{font:600 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6f7ff;animation:rise 1.2s .3s ease-out both}
+      .line{font:600 21px 'Courier New',Consolas,monospace;fill:#fff;opacity:0;animation:cycle 12s infinite}
+      .l2{animation-delay:3s}.l3{animation-delay:6s}.l4{animation-delay:9s}
+      .w1{animation:drift 14s linear infinite}
+      .w2{animation:drift 9s linear infinite}
+      .dot{animation:pulse 2s ease-in-out infinite}
+      @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes cycle{0%{opacity:0;transform:translateY(8px)}5%{opacity:1;transform:translateY(0)}22%{opacity:1}27%{opacity:0}100%{opacity:0}}
+      @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+      @keyframes pulse{0%,100%{opacity:.25}50%{opacity:.8}}
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle class="dot" cx="1040" cy="70" r="90" fill="#fff" opacity=".12"/>
+  <circle class="dot" cx="140" cy="200" r="60" fill="#fff" opacity=".12" style="animation-delay:1s"/>
+  <text class="name" x="600" y="110" text-anchor="middle">Punniyamoorthy K</text>
+  <text class="role" x="600" y="152" text-anchor="middle">Python Backend Developer  ·  REST APIs  ·  Fraud Detection  ·  Machine Learning</text>
+  <g text-anchor="middle">
+    <text class="line" x="600" y="200">&gt; Healthcare &amp; Fraud Detection Backend Engineer_</text>
+    <text class="line l2" x="600" y="200">&gt; I build APIs that are fast, reliable &amp; explainable_</text>
+    <text class="line l3" x="600" y="200">&gt; Django | Flask | FastAPI | scikit-learn | LLMs_</text>
+    <text class="line l4" x="600" y="200">&gt; Make it work, make it right, make it fast_</text>
+  </g>
+  <g opacity=".22" fill="#fff">
+    <path class="w1" d="M0 262 Q150 222 300 262 T600 262 T900 262 T1200 262 T1500 262 T1800 262 V300 H0 Z"/>
+  </g>
+  <g opacity=".35" fill="#fff">
+    <path class="w2" d="M0 276 Q150 246 300 276 T600 276 T900 276 T1200 276 T1500 276 T1800 276 V300 H0 Z"/>
+  </g>
+</svg>
+HEADER_EOF
+
+# ---------------------------------------------------------------
+# assets/footer.svg
+# ---------------------------------------------------------------
+cat > assets/footer.svg <<'FOOTER_EOF'
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D2FF"/>
+      <stop offset="50%" stop-color="#3A7BD5"/>
+      <stop offset="100%" stop-color="#7F00FF"/>
+    </linearGradient>
+    <style>
+      .t{font:700 28px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+      .w{animation:drift 12s linear infinite}
+      @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="140" fill="url(#bg)"/>
+  <g opacity=".25" fill="#fff"><path class="w" d="M0 30 Q150 0 300 30 T600 30 T900 30 T1200 30 T1500 30 T1800 30 V0 H0 Z"/></g>
+  <text class="t" x="600" y="85" text-anchor="middle">Thanks for visiting ⚡</text>
+</svg>
+FOOTER_EOF
+
+# ---------------------------------------------------------------
+# assets/divider.svg
+# ---------------------------------------------------------------
+cat > assets/divider.svg <<'DIVIDER_EOF'
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="4" viewBox="0 0 1200 4"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7F00FF"/><stop offset=".5" stop-color="#3A7BD5"/><stop offset="1" stop-color="#00D2FF"/></linearGradient></defs><rect width="1200" height="4" rx="2" fill="url(#g)"/></svg>
+DIVIDER_EOF
+
+# ---------------------------------------------------------------
+# README.md
+# ---------------------------------------------------------------
+cat > README.md <<'README_EOF'
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
@@ -360,3 +444,7 @@ Open to opportunities in **Chennai (on-site / hybrid) & Remote**.
 <img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
 
 </div>
+README_EOF
+
+echo "✅ Done: README.md + assets/header.svg, footer.svg, divider.svg created"
+echo "Next: git add . && git commit -m 'Update profile README' && git push"
