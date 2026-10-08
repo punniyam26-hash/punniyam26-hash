@@ -1,10 +1,10 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=250&section=header&text=Punniyamoorthy%20K&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20-%20REST%20APIs%20and%20Machine%20Learning&descSize=18&descAlignY=58" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=250&section=header&text=Punniyamoorthy%20K&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20-%20REST%20APIs%2C%20Fraud%20Detection%20%26%20Machine%20Learning&descSize=18&descAlignY=58" alt="Punniyamoorthy K - Python Backend Developer" width="100%"/>
 
 <a href="https://github.com/punniyam26-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Healthcare+%26+FinTech+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+smart;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Healthcare+%26+Fraud+Detection+Backend+Engineer;I+build+APIs+that+are+fast%2C+reliable+%26+explainable;Django+%7C+Flask+%7C+FastAPI+%7C+scikit-learn+%7C+LLMs;Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,8 +15,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/punniyamoorthy-k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:punniyam26@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=punniyam26-hash&style=for-the-badge&color=7F5AF0&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -41,22 +41,23 @@
 | | |
 |---|---|
 | **🎯 Role** | Python Backend / API Developer |
-| **⏳ Experience** | 2+ years · 2 shipped products (healthcare, personal finance) |
-| **🧰 Core Stack** | Django · DRF · Flask · FastAPI · PostgreSQL · MySQL · Docker · pytest |
-| **🤖 AI / ML** | scikit-learn · Pandas · LangChain · ChromaDB · OpenAI embeddings |
+| **⏳ Experience** | 2+ years · 2 production systems (healthcare risk prediction, fraud detection & audit monitoring) |
+| **🧰 Core Stack** | Django · DRF · Flask · FastAPI · PostgreSQL · MySQL · Docker · pytest · unittest |
+| **🤖 AI / ML** | scikit-learn (Isolation Forest, RandomForest, Logistic Regression) · Pandas · NumPy · LangChain · ChromaDB · OpenAI |
+| **🔐 Security** | JWT · OAuth 2.0 · Role-Based Access Control (RBAC) · Audit trails |
 | **🦸 Superpower** | Taking a feature from *requirements → data model → API → ML → deployment* on my own |
-| **📊 Proof** | 87%+ model accuracy · 30,000+ records processed · 30% faster queries · 75%+ test coverage |
+| **📊 Proof** | 87%+ model accuracy · 30,000+ records processed · 30% faster queries · 70-75%+ test coverage |
 | **📍 Availability** | Open to work in Chennai (on-site / hybrid) & Remote |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
 
 <h2 align="center">👋 Hi, I'm Punniyamoorthy</h2>
 
-I build **backend systems that are fast, reliable and smart.** Over the last 2 years I shipped REST APIs in **healthcare** (where every prediction must be explainable and auditable) and a **personal finance product** (where users want clarity, not just transaction lists), combining solid backend engineering with **Machine Learning** and **LLM-based search**.
+I build **backend systems that are fast, reliable and explainable.** Over the last 2 years I have shipped REST APIs in **healthcare** (where every prediction must be auditable) and a **fraud detection & audit monitoring platform** (where every alert must be traceable), combining solid backend engineering with **Machine Learning** and **LLM-based semantic search**.
 
-> 🔭 **Building now:** SmartSpend, an AI-powered finance tracker
-> 🌱 **Levelling up:** FastAPI, CI/CD, Redis, Celery
-> 💬 **Ask me about:** FastAPI, Docker, pytest, query tuning, semantic search
+> 🔭 **Building now:** Fraud Detection & Audit Monitoring Platform (rule engine + anomaly detection)
+> 🌱 **Levelling up:** FastAPI (async), CI/CD with GitHub Actions, Redis, Celery
+> 💬 **Ask me about:** REST API design, anomaly detection, query tuning, audit trails, semantic search
 > 🎯 **Looking for:** Python Backend / API Developer roles where I can own features end to end
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
@@ -67,9 +68,9 @@ I build **backend systems that are fast, reliable and smart.** Over the last 2 y
 
 <img src="https://img.shields.io/badge/87%25%2B-ML%20ACCURACY-7F5AF0?style=for-the-badge&labelColor=0d1117" alt="87% accuracy"/>
 <img src="https://img.shields.io/badge/30%2C000%2B-RECORDS%20PROCESSED-3A7BD5?style=for-the-badge&labelColor=0d1117" alt="30000 records"/>
-<img src="https://img.shields.io/badge/30%25-FASTER%20QUERIES-00B4D8?style=for-the-badge&labelColor=0d1117" alt="30% faster"/>
+<img src="https://img.shields.io/badge/30%25-FASTER%20AUDIT%20QUERIES-00B4D8?style=for-the-badge&labelColor=0d1117" alt="30% faster"/>
 <br/>
-<img src="https://img.shields.io/badge/75%25%2B-TEST%20COVERAGE-7F5AF0?style=for-the-badge&labelColor=0d1117" alt="75% coverage"/>
+<img src="https://img.shields.io/badge/70--75%25%2B-TEST%20COVERAGE-7F5AF0?style=for-the-badge&labelColor=0d1117" alt="Test coverage"/>
 <img src="https://img.shields.io/badge/0-DOWNTIME%20INCIDENTS-00C853?style=for-the-badge&labelColor=0d1117" alt="Zero downtime"/>
 <img src="https://img.shields.io/badge/%2B12%25-ACCURACY%20FROM%20PREPROCESSING-3A7BD5?style=for-the-badge&labelColor=0d1117" alt="+12% accuracy"/>
 
@@ -81,15 +82,34 @@ I build **backend systems that are fast, reliable and smart.** Over the last 2 y
 
 | Problem | What I did | Result |
 |---|---|---|
-| Raw patient data was too noisy for reliable predictions | Cleaned and preprocessed 30,000+ records with Pandas and NumPy | **+12% accuracy**, final model at 87%+ |
-| Audit queries were slow as data grew | Designed composite indexes on MySQL | **30% faster** audit queries |
-| Healthcare needs predictions that can be justified | Stored every prediction with confidence score and top risk factors | A complete **audit trail** for compliance |
+| Raw patient data was too noisy for reliable predictions | Cleaned and preprocessed 30,000+ records (missing values, encoding, StandardScaler) | **+12% accuracy**, final model at 87%+ |
+| Audit queries slowed down as data grew | Added composite indexes on `patient_id`, `risk_level`, `created_at` in MySQL | **30% faster** audit queries |
+| Healthcare predictions must be justified | Stored every prediction with confidence score and top risk factors | A complete **audit trail** for compliance |
 | Clinical notes were hard to search by keyword | Built a semantic search layer (LangChain, ChromaDB, Sentence Transformers, OpenAI embeddings) | Search by **meaning**, not exact words |
-| People don't know where their money goes | Built anomaly detection and a next-month forecast (Linear Regression) with Chart.js dashboards | Spending **insights**, not just transaction lists |
+| Fraud investigators were flooded with false alerts | Combined a configurable rule engine with Isolation Forest scoring; tuned thresholds for precision vs recall | **Fewer false positives**, better-prioritized alerts |
+| Flagged transactions needed accountability | Built an immutable audit trail of every flagged event, rule triggered, risk score and reviewer action | **Explainable** decisions ready for audit reporting |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
 
 <h2 align="center">🏗️ Architecture Deep Dives</h2>
+
+### 🛡️ Fraud Detection & Audit Monitoring Platform
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1b1f3b','primaryBorderColor':'#7F5AF0','primaryTextColor':'#E6EDF3','lineColor':'#00D2FF','secondaryColor':'#13203a','tertiaryColor':'#0d1117'}}}%%
+flowchart LR
+    T[Incoming Transactions] --> API[Django REST API<br/>JWT + RBAC]
+    API --> RE[Rule Engine<br/>Threshold · Velocity · Duplicate · Pattern]
+    API --> ML[Isolation Forest<br/>Anomaly Score]
+    RE --> RS[Risk Scoring]
+    ML --> RS
+    RS --> AL{Flagged?}
+    AL -->|Yes| CM[Alert Triage & Case Management<br/>Assign · Notes · Resolve]
+    AL -->|No| OK[Cleared]
+    CM --> AU[(PostgreSQL<br/>Immutable Audit Trail)]
+    RS --> AU
+    AU --> DB[Chart.js Dashboards<br/>Risk Trends · Alert Status]
+```
 
 ### 🏥 Patient Risk Prediction API
 
@@ -97,7 +117,7 @@ I build **backend systems that are fast, reliable and smart.** Over the last 2 y
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1b1f3b','primaryBorderColor':'#7F5AF0','primaryTextColor':'#E6EDF3','lineColor':'#00D2FF','secondaryColor':'#13203a','tertiaryColor':'#0d1117'}}}%%
 flowchart LR
     A[Client / Clinical Dashboard] -->|REST request| B[Flask API]
-    B --> C[Preprocessing<br/>Pandas · NumPy · Scaler]
+    B --> C[Preprocessing<br/>Pandas · NumPy · StandardScaler]
     C --> D[RandomForest Model<br/>Risk: Low / Medium / High]
     D --> E[(MySQL<br/>Predictions + Audit Trail)]
     B --> F[Semantic Search<br/>LangChain + ChromaDB]
@@ -105,24 +125,10 @@ flowchart LR
     D -. confidence + top factors .-> B
 ```
 
-### 💸 SmartSpend
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1b1f3b','primaryBorderColor':'#7F5AF0','primaryTextColor':'#E6EDF3','lineColor':'#00D2FF','secondaryColor':'#13203a','tertiaryColor':'#0d1117'}}}%%
-flowchart LR
-    U[User] --> V[Django Views + Auth]
-    V --> P[(PostgreSQL<br/>Transactions · Budgets)]
-    P --> I[Insights Engine<br/>Pandas + scikit-learn]
-    I --> AD[Anomaly Detection]
-    I --> NF[Next-month Forecast<br/>Linear Regression]
-    P --> BT[Budget Tracking<br/>ORM Aggregation]
-    AD --> CJ[Chart.js Dashboard]
-    NF --> CJ
-    BT --> CJ
-```
-
 <details>
-<summary>🔍 <b>Sample response: how the risk API explains itself</b> <i>(illustrative)</i></summary>
+<summary>🔍 <b>Sample responses: how my APIs explain themselves</b> <i>(illustrative)</i></summary>
+
+**Patient risk prediction**
 
 ```json
 {
@@ -131,6 +137,19 @@ flowchart LR
   "confidence": 0.89,
   "top_factors": ["blood_pressure", "age", "glucose_level"],
   "audit_id": "a1b2c3d4"
+}
+```
+
+**Fraud alert**
+
+```json
+{
+  "alert_id": "AL-4821",
+  "risk_score": 0.92,
+  "status": "open",
+  "rules_triggered": ["velocity_check", "duplicate_entry"],
+  "anomaly_flag": true,
+  "assigned_to": null
 }
 ```
 
@@ -160,11 +179,12 @@ flowchart LR
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
 
-**🔐 APIs & Tools**<br/>
+**🔐 APIs, Security & Testing**<br/>
 
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-7F5AF0?style=for-the-badge)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
@@ -177,27 +197,27 @@ flowchart LR
 ### 🔹 Python Backend Developer · Flay High Software
 **Dec 2025 – Present**
 
-**SmartSpend:** AI-Powered Finance Tracker · `Django` `PostgreSQL` `Pandas` `scikit-learn` `Chart.js` `pytest` `Docker`
+**Fraud Detection & Audit Monitoring Platform** · `Django REST Framework` `PostgreSQL` `Pandas` `scikit-learn` `Docker` `pytest`
 
-- Owned the product **end to end**: requirements, data modeling, backend, ML integration and UI
-- Built an insights engine that **flags anomalous transactions** and **forecasts next-month spending** using Linear Regression
-- Implemented budget tracking with Django ORM aggregation against user-defined monthly limits
-- Created interactive **Chart.js dashboards** for category-wise spending breakdowns
-- Designed authentication and a PostgreSQL-ready schema for transactions and budgets
-- Wrote pytest suites for transaction, budget and forecasting logic; containerized the app with Docker
+- Designed and built a backend that **screens transactions in real time** and flags suspicious activity for audit and compliance teams
+- Implemented a **configurable rule engine** (threshold, velocity, duplicate-entry, unusual-pattern checks) combined with **Isolation Forest** anomaly detection to generate a risk score per transaction
+- Engineered features with Pandas and NumPy and **tuned alert thresholds** to balance precision and recall, reducing false positives for investigators
+- Built **alert triage and case management APIs** (assignment, status tracking, investigator notes, resolution) secured with **RBAC and JWT**
+- Created an **immutable audit trail** logging every flagged event, rule triggered, risk score and reviewer action
+- Developed monitoring dashboards for flagged transactions, risk trends and alert status using Chart.js
+- Wrote pytest suites for rules, scoring and alert workflows; containerized with Docker
 
 ### 🔹 Python Backend Developer · NSEIT
 **Oct 2024 – Nov 2025**
 
-**Healthcare Patient Risk Prediction API** · `Flask` `scikit-learn` `Pandas` `MySQL` `ChromaDB` `LangChain` `OpenAI`
+**Healthcare Patient Risk Prediction API** · `Flask` `scikit-learn` `Pandas` `NumPy` `MySQL` `ChromaDB` `LangChain` `OpenAI`
 
-- Built and deployed a Flask REST API serving a **RandomForest model** that classifies patient risk (Low / Medium / High) with **87%+ accuracy**
-- Preprocessed 30,000+ patient records, improving model accuracy by **12%**
-- Delivered 4 REST endpoints for real-time prediction, patient history and dashboard statistics
-- Added composite indexes on MySQL, cutting audit query time by **30%**
-- Stored every prediction with confidence score and top risk factors, creating an **audit trail** for compliance
+- Built and deployed a Flask REST API serving a **RandomForest model** that classifies patient risk (Low / Medium / High) with **87%+ accuracy**, exposed via 4 endpoints for real-time prediction, patient history and dashboard statistics
+- Preprocessed **30,000+ patient records** (missing values, categorical encoding, StandardScaler), improving accuracy by **12%**
+- Optimized the MySQL schema with composite indexes, cutting audit query time by **30%**
+- Stored every prediction with confidence score and top risk factors, creating an **audit trail** for compliance and model monitoring
 - Built a **semantic search layer** over clinical notes using ChromaDB, LangChain, Sentence Transformers and OpenAI embeddings
-- Reached **75%+ code coverage** with unit tests, deployed to Linux production with **zero downtime incidents**
+- Reached **75%+ code coverage** with unittest suites; deployed to Linux production with **zero downtime incidents**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
 
@@ -207,17 +227,16 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 💸 SmartSpend
-*AI-powered personal finance tracker*
+### 🛡️ Fraud Detection & Audit Monitoring
+*Rule engine + ML anomaly detection*
 
-- 🔍 Anomaly detection on transactions
-- 📈 Next-month spending forecast
-- 📊 Category-wise Chart.js dashboards
+- ⚙️ Configurable rules: threshold, velocity, duplicates
+- 🌲 Isolation Forest risk scoring
+- 🗂️ Alert triage, case management, RBAC + JWT
+- 🧾 Immutable audit trail
 - 🐳 Dockerized and tested with pytest
 
-`Django` `PostgreSQL` `scikit-learn` `Docker`
-
-**[🔗 View Repository](https://github.com/punniyam26-hash/SmartSpend)**
+`Django REST` `PostgreSQL` `scikit-learn` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -236,6 +255,35 @@ flowchart LR
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 SmartSpend *(Personal Project)*
+*AI-powered personal finance tracker*
+
+- 🔍 Anomaly detection on transactions
+- 📈 Next-month spending forecast (Linear Regression)
+- 📊 Category-wise Chart.js dashboards
+- 🐳 Dockerized and tested with pytest
+
+`Django` `PostgreSQL` `scikit-learn` `Docker`
+
+**[🔗 View Repository](https://github.com/punniyam26-hash/SmartSpend)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔜 Up Next
+*FastAPI microservice*
+
+- ⚡ Async endpoints with Pydantic validation
+- 🧰 Redis caching + Celery background jobs
+- 🔄 GitHub Actions CI/CD pipeline
+
+`FastAPI` `Redis` `Celery` `GitHub Actions`
+
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
@@ -245,9 +293,9 @@ flowchart LR
 | | |
 |---|---|
 | 🧭 **End-to-end ownership** | Requirements → data model → API → ML → deployment, with minimal handoffs |
-| 🏭 **Production mindset** | Indexing, audit trails, testing, zero-downtime deployments |
+| 🏭 **Production mindset** | Indexing, audit trails, RBAC, testing, zero-downtime deployments |
 | 🤝 **Backend + ML + LLM** | I can ship ML features without waiting for a separate AI team |
-| 🏥 **Regulated-domain experience** | Healthcare and finance taught me explainability, traceability and data care |
+| 🏥 **Regulated-domain experience** | Healthcare and fraud/audit work taught me explainability, traceability and data care |
 | 💼 **Business understanding** | MBA background: I ask *why* a feature matters before I build it |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
@@ -255,8 +303,8 @@ flowchart LR
 <h2 align="center">🧭 How I Work</h2>
 
 1. **Make it work, make it right, make it fast**, in that order
-2. **Measure before optimizing:** indexes, queries and models get numbers, not guesses
-3. **Explainable by default:** every prediction I serve can say *why*
+2. **Measure before optimizing:** indexes, queries, thresholds and models get numbers, not guesses
+3. **Explainable by default:** every prediction and every alert can say *why*
 4. **Tests are part of the feature,** not a follow-up task
 5. **Clear communication:** I write docs and PR descriptions that others can actually follow
 
@@ -282,21 +330,20 @@ flowchart LR
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=punniyam26-hash&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=punniyam26-hash&bg_color=0d1117&color=00D2FF&line=7F5AF0&point=ffffff&area=true&area_color=7F5AF0&hide_border=true&title_color=00D2FF" width="95%" alt="Contribution graph" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">🎓 Education & Certifications</h2>
 
-- 🎓 **MBA**: add college & year
-- 🎓 **Degree**: add degree, college & year
-- 📜 **Certifications**: Python, ML, FastAPI (add details)
+| | |
+|---|---|
+| 🎓 **MBA**, Business Management & Operations | Anna University, Chennai · 2022 – 2024 |
+| 🎓 **B.Com**, Commerce, Accounting & Business Studies | Bharathidasan University · 2019 – 2022 |
+| 📜 **Certifications** | Python, React, FastAPI (Udemy, 2024) |
+| 🗣️ **Languages** | Tamil (Native) · English (Professional) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:3A7BD5,100:00D2FF&height=3&section=header" width="100%" alt=""/>
 
@@ -304,13 +351,13 @@ flowchart LR
 
 <div align="center">
 
-**Hiring for a Python Backend / API role? Let's talk. I reply fast.**<br/>
-Open to opportunities in **Chennai & Remote**.
+**Hiring for a Python Backend / API role? Let's talk.**<br/>
+Open to opportunities in **Chennai (on-site / hybrid) & Remote**.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/punniyamoorthy-k"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:punniyam26@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/punniyam26-hash"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
