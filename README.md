@@ -1,11 +1,4 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Punniyamoorthy%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" alt="Punniyamoorthy K - Python Backend Developer" />
-
-<a href="https://github.com/punniyam26-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Backend+%7C+API+Developer;Django+%C2%B7+DRF+%C2%B7+Flask+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Fraud+Detection+%26+Audit+Monitoring+Platforms;Machine+Learning+%C2%B7+LLM-based+Semantic+Search" alt="Typing SVG" />
-</a>
 
 <br/>
 
